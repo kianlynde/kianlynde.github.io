@@ -21,3 +21,10 @@ h2 {
     grid-template-columns: 40%, 40%;
     column-width: auto;
 }
+.leftgrid {
+    border: 1px solid black;
+
+}
+.rightgrid {
+    border: 1px, solid black;
+}
