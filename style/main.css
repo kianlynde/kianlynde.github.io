@@ -36,7 +36,7 @@ h2 {
 .margindown {
     margin-bottom: 10px;
 }
-.table {
+#t1 {
     border: 1px solid black;
     border-collapse: collapse;
 }
