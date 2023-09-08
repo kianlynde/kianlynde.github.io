@@ -18,7 +18,7 @@ h2 {
 }
 .grid {
     display: grid;
-    grid-template-columns: 40%, 40%;
+    grid-template-columns: 40% 40%;
     column-width: auto;
 }
 .leftgrid {
@@ -26,5 +26,5 @@ h2 {
 
 }
 .rightgrid {
-    border: 1px, solid black;
+    border: 1px solid black;
 }
