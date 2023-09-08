@@ -33,10 +33,12 @@ h2 {
 .margin {
  margin-left: 30px;
 }
-.margindown {
-    margin-bottom: 10px;
+.margintop {
+    margin-top: 10px;
+}
+table, td, th{
+    border: 1px solid black;
 }
 #t1 {
-    border: 1px solid black;
     border-collapse: collapse;
 }
