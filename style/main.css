@@ -24,9 +24,12 @@ h2 {
 }
 .leftgrid {
     border: 1px solid black;
-    padding: 10px;
+    
 }
 .rightgrid {
     border: 1px solid black;
-    padding: 10px;
+    
+}
+.margin {
+ margin-left: 30px;
 }
